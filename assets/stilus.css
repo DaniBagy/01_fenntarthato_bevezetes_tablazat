@@ -1,0 +1,18 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8faf3;
+}
+section{
+    grid-template-columns: 1fr 1fr 1fr;
+    display: grid ;
+}
+div{
+    background-color: #dce6db;
+    border: #1c1d1c;
+    border-radius: 2px;
+
+}
+table th{
+    background-color: #145c4e;
+    color: white;
+}
